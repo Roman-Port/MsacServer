@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMsacServer", "LibMsacServer\LibMsacServer.csproj", "{332C4C05-8D51-45A8-9BB0-244BF9E286D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{332C4C05-8D51-45A8-9BB0-244BF9E286D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332C4C05-8D51-45A8-9BB0-244BF9E286D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332C4C05-8D51-45A8-9BB0-244BF9E286D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332C4C05-8D51-45A8-9BB0-244BF9E286D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE212FFD-9D9C-438A-A31E-78B256362FB4}
+	EndGlobalSection
+EndGlobal
